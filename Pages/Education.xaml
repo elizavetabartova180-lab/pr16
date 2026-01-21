@@ -33,6 +33,7 @@
             <TextBox Height="24" Margin="416,256,18,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
             <Label Content="(Формат должен быть PNG, JPEG или PDF, а максимальный размер каждого файла 5 МБ)" HorizontalAlignment="Left" Margin="32,310,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="10" Foreground="Red"/>
             <Button Content="Выбрать..." HorizontalAlignment="Right" Margin="0,333,6,0" VerticalAlignment="Top" Width="79" Height="25"/>
+            <ScrollViewer/>
         </Grid>
     </Grid>
 </Page>

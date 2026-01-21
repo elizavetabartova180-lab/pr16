@@ -45,6 +45,7 @@
                 </TextBlock>
             </CheckBox>
             <CheckBox Content="С датой предоставления оригиналов документов ознакомлен(а)" HorizontalAlignment="Left" Margin="27,449,0,0" VerticalAlignment="Top"/>
+            <ScrollViewer/>
         </Grid>
     </Grid>
 </Page>

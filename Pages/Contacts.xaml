@@ -8,7 +8,7 @@
       Title="Подача заявления" Height="393" Width="792">
 
     <Grid Background="#F8F9FA">
-        <Grid Margin="0,0,0,338" Background="White">
+        <Grid Margin="0,0,0,338" Background="White" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="343*"/>
                 <ColumnDefinition Width="57*"/>

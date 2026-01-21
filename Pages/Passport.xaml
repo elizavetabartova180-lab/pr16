@@ -8,7 +8,7 @@
       Title="Подача заявления" Height="620" Width="792">
 
     <Grid Background="#F8F9FA">
-        <Grid Margin="0,0,0,565" Background="White">
+        <Grid Margin="0,0,0,565" Background="White" VerticalAlignment="Top">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="343*"/>
                 <ColumnDefinition Width="57*"/>
@@ -52,6 +52,7 @@
             <TextBox Height="24" Margin="15,419,274,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
             <Label Content="Район:" HorizontalAlignment="Left" Margin="540,392,0,0" VerticalAlignment="Top" Width="108"/>
             <TextBox Height="24" Margin="542,419,10,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+            <ScrollViewer/>
         </Grid>
 
     </Grid>

@@ -5,7 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:Submission_of_Applications_Bartova.Pages"
       mc:Ignorable="d" d:DesignWidth="800"
-      Title="Passport" Height="620" Width="792">
+      Title="Подача заявления" Height="620" Width="792">
 
     <Grid Background="#F8F9FA">
         <Grid Margin="0,0,0,565" Background="White">

@@ -26,13 +26,13 @@
             <TextBox Height="24" Margin="10,256,421,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
             <Label Content="Прикрепите сканы страниц документа об образовании с Ф.И.О., наименованием образовательной организации и оценками" HorizontalAlignment="Left" Margin="12,284,0,0" VerticalAlignment="Top"/>
             <TextBox Height="24" Margin="32,335,90,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-            <Button Content="Продолжить" HorizontalAlignment="Right" Margin="0,0,10,5" VerticalAlignment="Bottom" Width="150" Height="25"/>
+            <Button Content="Продолжить" HorizontalAlignment="Right" Margin="0,0,6,5" VerticalAlignment="Bottom" Width="150" Height="25"/>
             <RadioButton Content="СПО" HorizontalAlignment="Left" Margin="22,122,0,0" VerticalAlignment="Top"/>
             <RadioButton Content="ВПО" HorizontalAlignment="Left" Margin="22,138,0,0" VerticalAlignment="Top"/>
             <Label Content="Средний балл(до сотых):" HorizontalAlignment="Left" Margin="416,225,0,0" VerticalAlignment="Top"/>
             <TextBox Height="24" Margin="416,256,18,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
             <Label Content="(Формат должен быть PNG, JPEG или PDF, а максимальный размер каждого файла 5 МБ)" HorizontalAlignment="Left" Margin="32,310,0,0" VerticalAlignment="Top" Background="{x:Null}" FontSize="10" Foreground="Red"/>
-            <Button Content="Выбрать..." HorizontalAlignment="Right" Margin="0,0,6,35" VerticalAlignment="Bottom" Width="79" Height="25"/>
+            <Button Content="Выбрать..." HorizontalAlignment="Right" Margin="0,333,6,0" VerticalAlignment="Top" Width="79" Height="25"/>
         </Grid>
     </Grid>
 </Page>
